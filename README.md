@@ -1,4 +1,4 @@
-# Dataset Structural Index: Understanding a machine's perspective towards visual data
+# Dataset Structural Index: Leveraging machine's perspective towards visual data
 
 There are three parts to this code.
 1. Feature extraction
