@@ -45,10 +45,10 @@ on Fine-Grained Visual Categorization (FGVC), Vol. 2, 2011.
 
 Feature extraction is based on the work of Po-Chih Huang's CBIR system based on ResNet features.
 
-If you want to cite the entire work of Dataset Structural Index: Understanding a machine's perspective towards visual data please make sure to include the full citiation as follows:
+If you want to cite the entire work of Dataset Structural Index: Leveraging machine's perspective towards visual data please make sure to include the full citiation as follows:
 
 >@article{parikh2021dataset,  
->  title={Dataset Structural Index: Understanding a machine's perspective towards visual data},  
+>  title={Dataset Structural Index: Leveraging a machine's perspective towards visual data},  
 >  author={Parikh, Dishant},  
 >  journal={arXiv preprint arXiv:2110.04070},  
 >  year={2021}  
